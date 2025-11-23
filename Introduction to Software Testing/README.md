@@ -5,6 +5,11 @@ This repository contains the exercises and materials developed during a Software
 Throughout the course, I learned the fundamental principles and processes of software testing, created and executed test cases, and used automated tools to validate software behavior. I practiced writing effective test cases including input data and expected outcomes, and developed the ability to evaluate the quality and adequacy of tests.
 
 
+📃 Certificate
+
+https://coursera.org/share/48974635abd986fcdce62c3a18596f46
+
+
 ✅ What I Learned
 
 Difference between verification vs. validation
@@ -47,4 +52,5 @@ By completing this course, I gained:
 A solid understanding of software testing theory
 Hands-on experience with automated testing tools
 The ability to plan, design, and execute effective tests
+
 Skills to support software quality in real development environments
